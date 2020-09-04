@@ -3,4 +3,4 @@
 Instructions:
 * download Linking.pdf locally or open it in-browser
 * clone the repo on your Watson 132 machine
-* follow hte directions in the pdf
+* follow the directions in the pdf
